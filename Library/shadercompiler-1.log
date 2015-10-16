@@ -1,0 +1,89 @@
+Base path: C:/Program Files (x86)/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-1-5552
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=1360 outsize=1435 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=5134 outsize=3070 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=5134 outsize=2728 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3073 outsize=3102 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3073 outsize=3029 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2458 outsize=1477 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2458 outsize=632 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4740 outsize=3159 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4740 outsize=2672 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3073 outsize=2314 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3073 outsize=2615 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=5134 outsize=4516 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=5134 outsize=2794 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=5134 outsize=2789 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=5134 outsize=3554 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_ON ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=5134 outsize=6297 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=5134 outsize=3472 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_ON ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=5134 outsize=6 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=5134 outsize=6 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=5134 outsize=7 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=3073 outsize=3657 kw=POINT ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=3073 outsize=3750 kw=POINT_COOKIE ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=3073 outsize=3462 kw=DIRECTIONAL_COOKIE ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=3073 outsize=6 kw=POINT ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=3073 outsize=6 kw=SPOT ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=3073 outsize=6 kw=DIRECTIONAL_COOKIE ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=2458 outsize=2269 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=2458 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4740 outsize=4791 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4740 outsize=3650 kw=LIGHTMAP_ON DIRLIGHTMAP_ON HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4740 outsize=3657 kw=LIGHTMAP_ON DIRLIGHTMAP_ON HDR_LIGHT_PREPASS_ON ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4740 outsize=6 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4740 outsize=7 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_ON ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4740 outsize=7 kw=LIGHTMAP_ON DIRLIGHTMAP_ON HDR_LIGHT_PREPASS_ON ok=1
+Cmd: preprocess
+  insize=2714 outsize=884 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2129 outsize=1136 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2129 outsize=1648 kw= ok=1
+Cmd: preprocess
+  insize=948 outsize=945 ok=1
+Cmd: preprocess
+  insize=840 outsize=837 ok=1
+Cmd: preprocess
+  insize=1364 outsize=1361 ok=1
+Cmd: preprocess
+  insize=1190 outsize=1187 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=2129 outsize=1323 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=2129 outsize=6 kw= ok=1
